@@ -36,4 +36,8 @@ Abra `http://localhost:8765/`.
 - Inter é carregada pelo Google Fonts; há fontes de sistema como fallback.
 - Para adaptar em um CMS, preserve os IDs/âncoras usados na navegação e os caminhos das imagens, ou atualize os caminhos junto com o HTML.
 
+## Atualizações
+
+- **29/10/2026** — nova ordem das seções, hero refeito (o kit é o protagonista), botões "Quero meu Kit Infinity", logo do menu em texto, imagem do iPhone e limpeza de CSS. Lista exata em [`alteracoes/2026-10-29.md`](alteracoes/2026-10-29.md) e diff em [`alteracoes/2026-10-29-index-e-termos.diff`](alteracoes/2026-10-29-index-e-termos.diff).
+
 Este pacote serve como entrega de design/front para integração. A equipe de TI deve conectar os serviços e fluxos reais antes da publicação no sistema da empresa.
